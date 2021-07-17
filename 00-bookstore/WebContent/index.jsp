@@ -12,12 +12,6 @@
 
 	<h2>메인페이지 입니다.</h2>
 	<p>저희 다락방 서점에 오신것을 환영합니다.</p>
-	<h2>git test</h2>     
-	<h2>again</h2>
-		<h2>again</h2>
-			<h2>again</h2>
-				<h2>again</h2>		<h2>again</h2>
-			<h2>again</h2>
-				<h2>again</h2>
+
 </body>
 </html>
